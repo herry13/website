@@ -1,0 +1,32 @@
+
+title: Dr. Herry - University of Glasgow
+baseurl: '/~herry' #change it according to your repository name
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+style: styles-6
+
+
+#Profile information
+name: Dr. Herry
+tagline: Research Associate
+organisation: Faculty of Computing Science</br>University of Glasgow
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+address: Room F132<br/>Sir Alwyn Williams Building<br/>Lilybank Gardens<br/>Glasgow G12 8QQ
+
+#sidebar links
+email: herry.herry@glasgow.ac.uk
+#phone: 
+linkedin: herry13
+github: herry13
+twitter: '@hhherry'
+
+
+# Tracker
+analytics: UA-83979019-1
+#Update all the sections by editing the files inside _includes folder.
